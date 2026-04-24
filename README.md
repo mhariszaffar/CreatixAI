@@ -3,7 +3,7 @@
 An AI-first productivity platform designed for maximum product education with minimum drop-off.
 
 ## 🔗 Project Links
-* **Live Interactive Prototype:** [Paste your CodeSandbox Link Here]
+* **Live Interactive Prototype:** (https://www.figma.com/design/UvoF8gPGK888zAfg79wy47/Creatix-AI?node-id=0-1&t=ceb6trGHdEhl2MJf-1)
 * **Figma Design File:** [Paste your Figma Share Link Here]
 
 ## 🚀 The Solution: "Goal-First Onboarding"

@@ -2,6 +2,8 @@
 
 An AI-first productivity platform designed for maximum product education with minimum drop-off.
 This repository contains my individual UI/UX design submission for the Stage 1 'Creatix-AI' challenge at the Vyrothon hackathon (hosted at NUST). This submission successfully qualified me to represent GIKI in the Stage 2 cross-functional team MVP build.
+<img width="1877" height="867" alt="page1" src="https://github.com/user-attachments/assets/c2620ba9-d4ca-4e1b-b18a-341c01b87117" />
+
 
 ## 📌 Project Overview
 The Creatix AI challenge tested rapid UI/UX problem-solving, adherence to strict design constraints, and the ability to justify design decisions through testing. 

@@ -4,7 +4,7 @@ An AI-first productivity platform designed for maximum product education with mi
 
 ## 🔗 Project Links
 * **Live Interactive Prototype:** (https://www.figma.com/design/UvoF8gPGK888zAfg79wy47/Creatix-AI?node-id=0-1&t=ceb6trGHdEhl2MJf-1)
-* **Figma Design File:** [Paste your Figma Share Link Here]
+* **Figma Design File:** (https://github.com/mhariszaffar/CreatixAI/blob/main/Creatix%20AI.fig)
 
 ## 🚀 The Solution: "Goal-First Onboarding"
 Instead of overwhelming users with 8 tools, Creatix uses **Progressive Disclosure**. 
@@ -13,5 +13,3 @@ Instead of overwhelming users with 8 tools, Creatix uses **Progressive Disclosur
 
 ## 🛠️ Tech & Tools
 * **Design:** Figma (Auto-layout, Components, Prototyping)
-* **Frontend:** React, Framer Motion (for high-fidelity interaction testing)
-* **AI Logic:** Intent-based routing for multi-modal creation.

@@ -31,8 +31,6 @@ The project is cleanly organized into four primary user flows, alongside compreh
 
 <img width="396" height="717" alt="page5" src="https://github.com/user-attachments/assets/df26477b-d048-4500-a029-4798cea3b00c" />
 
-* **A/B Test Write-up:** A detailed breakdown of design iterations, testing methodologies, and data-backed decisions.
-
 ## 🔗 Project Links
 * **Live Interactive Prototype:** (https://www.figma.com/design/UvoF8gPGK888zAfg79wy47/Creatix-AI?node-id=0-1&t=ceb6trGHdEhl2MJf-1)
 * **Figma Design File:** (https://github.com/mhariszaffar/CreatixAI/blob/main/Creatix%20AI.fig)
